@@ -100,3 +100,13 @@ space {
     space.put: Greeting
 }
 ```
+
+## the Arsagyr's proposal
+## void functions
+branch {} //a main part
+print(classType)//Print the classType. It can be int, bit, dec, str or bool types
+println(classType)// Print the classType as "print(classType)" and make a new line
+## Example
+branch {
+    print('Hello World')
+}
